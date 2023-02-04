@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "mahesh",
+      "emial": "mahesh@gmail.com",
+      "mobile": "87456837",
+      "address": "BLR",
+      "id": 1
+    },
+    {
+      "name": "raj",
+      "emial": "raj@gmail.com",
+      "mobile": "87987092342",
+      "address": "BLR",
+      "id": 2
+    }
+  ],
+  "course": [
+    {
+      "title": "e1",
+      "fee": "12345",
+      "duration": "1,2",
+      "id": 8
+    },
+    {
+      "title": "james",
+      "fee": "1300",
+      "duration": "2 month",
+      "id": 9
+    },
+    {
+      "title": "shawn",
+      "fee": "400",
+      "duration": "2 month",
+      "id": 10
+    }
+  ]
+}
